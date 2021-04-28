@@ -6,8 +6,9 @@ C Implementation of a simple Database management system (DBMS), including storag
 
 This is for the programming assignment for University of Cincinnati 2021 Spring semester `CS 6051`, taught by [Dr. Lee](https://researchdirectory.uc.edu/p/lee5sk). This repository is mainly for my own future reference since this is my first time to program in C. Two .c files are entirely my work though, so I would be appreciated if you can note the source if you intend to use it
 
-`storage_mgr.c`: [Click Here](https://github.com/frankligy/Database_management_system/blob/main/assign1/storage_mgr.c)
-`buffer_mgr.c`: [Click Here](https://github.com/frankligy/Database_management_system/blob/main/assign2/buffer_mgr.c)
+- `storage_mgr.c`: [Click Here](https://github.com/frankligy/Database_management_system/blob/main/assign1/storage_mgr.c)
+
+- `buffer_mgr.c`: [Click Here](https://github.com/frankligy/Database_management_system/blob/main/assign2/buffer_mgr.c)
 
 # Storage manager
 
